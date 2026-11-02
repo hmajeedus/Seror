@@ -35,6 +35,16 @@ npm run preview
 - Booking form simulates success — connect Calendly, Square, or Formspree for production.
 - Contact details are placeholders.
 
+**Live site:** https://hmajeedus.github.io/Seror/
+
+**Repo:** https://github.com/hmajeedus/Seror
+
 ```bash
 npm run dev
+```
+
+Redeploy after changes:
+
+```bash
+npm run deploy
 ```
